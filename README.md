@@ -1,2 +1,2 @@
 # ushareme
-Application to manage online media
+Application to manage, share, play online media
